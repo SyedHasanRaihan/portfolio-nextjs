@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "title":"HTML",
+        "image":"/assets/skills/html.png"
+    },
+    {
+        "id":2,
+        "title":"CSS",
+        "image":"/assets/skills/css.png"
+    },
+    {
+        "id":3,
+        "title":"JavaScript",
+        "image":"/assets/skills/javascript.png"
+    },
+    {
+        "id":4,
+        "title":"React",
+        "image":"/assets/skills/react.png"
+    },
+    {
+        "id":5,
+        "title":"Tailwind",
+        "image":"/assets/skills/tailwind.png"
+    },
+    {
+        "id":6,
+        "title":"Github",
+        "image":"/assets/skills/github1.png"
+    },
+    {
+        "id":7,
+        "title":"Next",
+        "image":"/assets/skills/nextjs.png"
+    }
+    
+]
