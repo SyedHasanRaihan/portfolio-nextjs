@@ -19,10 +19,13 @@ const Contact = () => {
           {/* left */}
           <div className="col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4">
             <div className="lg:p-4 h-full">
-              <div>
-                <img
+              <div className="relative">
+                <Image
                   className="rounded-xl hover:scale-105 ease-in duration-300"
-                  src="assets/contact.jpg"
+                  width='1000'
+                  height="1000"
+                  layout="fill"
+                  src="/assets/contact.jpg"
                   alt="/"
                 />
               </div>
@@ -31,7 +34,7 @@ const Contact = () => {
                 <p>Front-End Developer</p>
                 <p className="py-4">
                   I am available for freelance or full-time positions. Contact
-                  me and let's talk.
+                  me and let&apos;s talk.
                 </p>
               </div>
               <div>
